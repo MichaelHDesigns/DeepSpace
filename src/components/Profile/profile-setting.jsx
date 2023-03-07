@@ -78,7 +78,7 @@ class Settings extends Component {
               </Link>
               <div className="row">
                 <div class="setting-div col-7   ">
-                  <label for="text-1542372332072">Username</label>
+                  <label htmlFor="text-1542372332072">Username</label>
 
                   <div class="input-group nft-input">
                     <input
