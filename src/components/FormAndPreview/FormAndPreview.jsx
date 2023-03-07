@@ -68,7 +68,7 @@ class FormAndPreview extends Component {
                   <span class="highlight">* </span>Required fields{" "}
                 </p>
                 <div class="banner-image">
-                  <label for="b2" class="head">
+                  <label htmlFor="b2" class="head">
                     {" "}
                     Image, Video, Audio, or 3D Model{" "}
                     <span class="highlight">*</span>
