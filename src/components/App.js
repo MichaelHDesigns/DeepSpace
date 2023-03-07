@@ -157,7 +157,7 @@ class App extends Component {
           console.log("See");
           await this.uploadProfile(
             "https://ipfs.infura.io/ipfs/QmY6Qu6nEU4BA1HCAEFbEzismcUgQ76vNqMTQeh3bkwbMk",
-            "https://bafybeie5osb2ww2auno4hrx6qbix47cotpzn3onnavviwacrhhcs7cm5nu.ipfs.infura-ipfs.io/",
+            "https://bafybeieq54pvmottv2s5erfjhaxosmxu7iewjru5lphn5av7udw47yumlm.ipfs.infura-ipfs.io/",
             "Unnamed",
             "No description",
             "abc@gmail.com",
