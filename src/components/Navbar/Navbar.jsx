@@ -28,7 +28,7 @@ const Navbar = ({ accountAddress, accountBalance, profileImage }) => {
 
   return (
     <>
-      <div class="header"></div>
+      <div className="header"></div>
       <header
         id="header"
         class="header fixed-top sticked"
