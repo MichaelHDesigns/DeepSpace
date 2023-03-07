@@ -156,8 +156,8 @@ class App extends Component {
           const overAllDate = month + " " + day + " " + year;
           console.log("See");
           await this.uploadProfile(
-            "https://ipfs.infura.io/ipfs/QmY6Qu6nEU4BA1HCAEFbEzismcUgQ76vNqMTQeh3bkwbMk",
-            "https://bafybeieq54pvmottv2s5erfjhaxosmxu7iewjru5lphn5av7udw47yumlm.ipfs.infura-ipfs.io/",
+            "https://bafybeieq54pvmottv2s5erfjhaxosmxu7iewjru5lphn5av7udw47yumlm.ipfs.dweb.link"
+            "https://bafybeibwimeoq5xrbt2nvrukyvhtyhqww4ii7yea25mbmclq32mzuzhpvq.ipfs.dweb.link/",
             "Unnamed",
             "No description",
             "abc@gmail.com",
